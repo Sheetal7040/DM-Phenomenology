@@ -115,7 +115,7 @@ To test whether the pipeline can:
 
 ## Author
 
-Shivani [Your Last Name]  
+Sheetal
 M.Sc. Astronomy, IIT Indore  
 
 ---
